@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sebas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+<h4>I have knowledge in</h4>
+
+- 🥇 Python (**Flask, Django, FastAPI**)
+- 🥈 Javascript
+- 🥉 Java
+<br/><br/>
+
+- 🌱 I’m currently learning about **Data Science**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
