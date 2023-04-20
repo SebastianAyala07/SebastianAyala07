@@ -10,9 +10,12 @@
 - ✨ Simple Storage Service (S3)
 - 🤪 API Gateway
 - 🤖 Serverless
+- 🦾 Secrets manager
+- 🌿 Simple Notification Service
+- ⚡ SQS
 <br/><br/>
 
-- 🌱 I’m currently learning about **Data Science**
+- 🌱 I’m currently learning **English**
 
 - 📫 How to reach me: **sebaxayala@gmail.com**
 
@@ -27,12 +30,9 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Some Languages and Tools thath I use:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -59,4 +59,4 @@
 
 [SebasAyala](https://github.com/SebastianAyala07)
 
-Last Edited on: 16/08/2022
+Last Edited on: 19/04/2023
