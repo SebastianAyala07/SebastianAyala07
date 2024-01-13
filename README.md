@@ -5,6 +5,32 @@
 <img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/Banner.png">
 <br></br>
 
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Install Docker and Docker compose</h3>
+<div align="center">
+<a href="https://youtu.be/I604zwlPWVw?si=qIHPl6B6Loca5PGa" target="_blank"><img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/Docker%20install.png" width="400" alt="Install Docker and Docker compose"></a>
+<p align="justify">Discover the fascinating world of virtualization with our new tutorial! In this video, I will guide you step by step through the installation of Docker and Docker Compose, two essential tools for container management on your system.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Install Jenkins with Docker</h3>
+<div align="center">
+<a href="https://youtu.be/g1nyk3qSnDU?si=GRfOo7HtJWEAodHx" target="_blank"><img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/JenkinsBanner.png" width="400" alt="Install Jenkins with docker"></a>
+<p align="justify">Explore the power of automation with our new tutorial! In this exciting video, I will show you how to set up an instance of Jenkins using Docker.
+<br/><br/></p>
+</div>
+                                                                                      
+</td>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 <h4>I have knowledge in</h4>
 
 - 🥇 Python (**Flask, Django, FastAPI**)
