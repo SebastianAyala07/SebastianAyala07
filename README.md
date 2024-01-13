@@ -31,6 +31,29 @@
 </div>
 <br>
 
+## Mini Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Climate Terminal App</h3>
+<div align="center">
+<a href="https://www.linkedin.com/posts/sebastianayala7_nodejs-js-javascript-activity-6824027048995033088-Ei-7?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/climate_app.jpg" width="400" alt="Install Docker and Docker compose"></a>
+<p>
+<a href="https://github.com/SebastianAyala07/climate_and_place_app" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p align="justify">NodeJS app that connects to an API to retrieve cities worldwide based on a search and then makes another query to check the current weather in the specified city.</p>
+</div>
+                                                                                      
+</td>
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
 <h4>I have knowledge in</h4>
 
 - 🥇 Python (**Flask, Django, FastAPI**)
