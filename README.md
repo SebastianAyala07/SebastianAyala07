@@ -5,7 +5,7 @@
 <img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/Banner.png">
 <br></br>
 
-## Proyectos *bombitas*
+## Casual Videos
 <table>
 <tr>
 <td width="50%">
