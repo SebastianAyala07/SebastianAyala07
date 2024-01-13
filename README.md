@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://twitter.com/sabesay">Sebas Ayala</a> 👋</h1>
 <h4 align="center">A passionate Python and Backend developer from Colombia 🇨🇴</h4>
 </div>
-
+<img src="https://github.com/SebastianAyala07/SebastianAyala07/blob/main/Banner.png">
 <br></br>
 
 <h4>I have knowledge in</h4>
