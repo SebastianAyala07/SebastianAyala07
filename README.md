@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sebas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Backend developer from Colombia</h3>
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://twitter.com/sabesay">Sebas Ayala</a> 👋</h1>
+<h4 align="center">A passionate Python and Backend developer from Colombia 🇨🇴</h4>
+</div>
+
+<br></br>
 
 <h4>I have knowledge in</h4>
 
@@ -10,14 +14,14 @@
 - ✨ Simple Storage Service (S3)
 - 🤪 API Gateway
 - 🤖 Serverless
-- 🦾 Secrets manager
+- 🦾 Graphql
 - 🌿 Simple Notification Service
 - ⚡ SQS
 <br/><br/>
 
-- 🌱 I’m currently learning **English**
+- 🌱 I’m currently learning **English** Actual level (B1)
 
-- 📫 How to reach me: **sebaxayala@gmail.com**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sebastianayala7/">**SebastianAyala07**</a>
 
 - ⚡ What I like to do: **I like to play soccer a lot**
 
